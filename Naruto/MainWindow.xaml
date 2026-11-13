@@ -9,7 +9,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Canvas>
-        <Image x:Name="Player1" Width="100" Height="100" Canvas.Left="100" Canvas.Top="200" Source="pack://application:,,,/Assets/dung1.png" />
+        <Image x:Name="Player1" Width="150" Height="150" Canvas.Left="100" Canvas.Top="180" Source="pack://application:,,,/Assets/dung1.png" />
         <Image x:Name="Player2" Width="100" Height="100" Canvas.Left="500" Canvas.Top="200" Source="pack://application:,,,/Assets/sskdung1.png" RenderTransformOrigin="0.5,0.5">
             <Image.RenderTransform>
                 <ScaleTransform ScaleX="-1" />
